@@ -7,7 +7,6 @@ I'm Andrew Emad, a student at Faculty of Computers and Artificial Inteligence, H
 - 📫 How to reach me: 
   * [Email 📧](androw230@gmail.com)
   * [LinkedIn](https://www.linkedin.com/in/andrew-emad-8578a21ba/)
-  * 
 <!--
 **bafyle/bafyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
