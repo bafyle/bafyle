@@ -2,7 +2,7 @@
 I'm Andrew Emad, a student at Faculty of Computers and Artificial Inteligence, Helwan University.
 - 🌱 I'm currently learning web development using Python and Django framework and doing some fun stuff with other languages and libraries
   * [Sudoku using Pygame](https://github.com/bafyle/Sudoku-game-using-Pygame)
-  * [Facepage](https://github.com/bafyle/Sudoku-game-using-Pygame)
+  * [Facepage](https://github.com/bafyle/Facepage)
   * [Simple linux file manager](https://github.com/bafyle/FileManager)
 - 📫 How to reach me: 
   * [Email 📧](androw230@gmail.com)
